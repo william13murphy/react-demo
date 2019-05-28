@@ -2,7 +2,8 @@
 ##### This repo has been created to display some of my work from past projects using react.js
 ##### A live demo can be found at: http://tapdev.kinapptech.com
  - you can use the quick login options to login
- 
+##### I have also created a Todo App using Angular 7
+ - The GH repo can be found here: https://github.com/william13murphy/ang-todo
  ---
 ### File Details
  - [**AllSchoolsContainer.jsx**](https://github.com/william13murphy/react-demo/blob/master/AllSchoolsContainer.jsx) - This is an example container used to retrieve data from the DB. Utilizes react-redux and the API functions that are defined.
